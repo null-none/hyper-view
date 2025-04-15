@@ -1,0 +1,26 @@
+{
+  "name": "hyper-view",
+  "version": "1.0.0",
+  "description": "Full-featured HTMX-style micro library with WebSocket, history, spinner, and more ",
+  "keywords": [
+    "htmx-style",
+    "htmx",
+    "javascript",
+    "js"
+  ],
+  "homepage": "https://github.com/null-none/hyper-view#readme",
+  "bugs": {
+    "url": "https://github.com/null-none/hyper-view/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-none/hyper-view.git"
+  },
+  "license": "MIT",
+  "author": "Kalinin Mitko",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
