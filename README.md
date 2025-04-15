@@ -24,5 +24,4 @@ Full-featured HTMX-style micro library with WebSocket, history, spinner, and mor
 
 <!-- WebSocket connection -->
 <div hv-ws="ws://localhost:8000/ws" hv-swap="innerHTML"></div>
-*/
 ```
