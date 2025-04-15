@@ -1,13 +1,7 @@
 {
-  "name": "hyper-view",
+  "name": "@null-none/hyper-view",
   "version": "1.0.0",
-  "description": "Full-featured HTMX-style micro library with WebSocket, history, spinner, and more ",
-  "keywords": [
-    "htmx-style",
-    "htmx",
-    "javascript",
-    "js"
-  ],
+  "description": "Full-featured HTMX-style micro library with WebSocket, history, spinner, and more",
   "homepage": "https://github.com/null-none/hyper-view#readme",
   "bugs": {
     "url": "https://github.com/null-none/hyper-view/issues"
